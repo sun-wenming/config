@@ -18,4 +18,4 @@
 ```
 
 > Extension
-> Go
+> [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
