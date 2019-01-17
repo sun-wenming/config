@@ -2,6 +2,8 @@
 > 拼接PATH用符号" : "  如 <br>
 `export PATH=$PATH:/usr/local/nginx/sbin:/usr/local/go/bin:` 
 
+**记得在命令行中 source /etc/profile 使配置生效**
+
 ## Golang
 ```bazaar
 export GOROOT=/usr/local/go
