@@ -7,7 +7,7 @@
 ## Golang
 ```bazaar
 export GOROOT=/usr/local/go
-export GOPATH=$HOME/go
+export GOPATH=/usr/local/gopro
 export GO111MODULE=on
 
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
