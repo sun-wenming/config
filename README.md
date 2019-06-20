@@ -1,5 +1,10 @@
 # config
 
+# TODO 
+- 优化 GitHub 博客
+- 书写 vue 后台管理系统 
+- 搭建高可用集群
+
 ### [vscode](https://github.com/sun-wenming/config/tree/master/vscode)
 
 - [eslint](https://github.com/sun-wenming/config/blob/master/vscode/eslint.md)
