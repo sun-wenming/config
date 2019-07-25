@@ -4,6 +4,10 @@
 ### 插件集合：
 [VSCode拓展推荐（前端开发）](https://github.com/varHarrie/varharrie.github.io/issues/10)
 
+
+
+> Extension
+> [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 ```
 {
   // vetur:对html的内容使用js-beautify-html
@@ -11,12 +15,13 @@
 }
 ```
 
-> Extension
-> [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
-
 > Doc
 > [vetur-Doc](https://vuejs.github.io/vetur/)
 
+
+
+> Extension
+> [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ```
 "files.autoSave":"off",
@@ -29,8 +34,4 @@
  "eslint.options": {
     "plugins": ["html"]
  }
-
-```
-> Extension
-> [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-
+ ```

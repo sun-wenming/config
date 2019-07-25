@@ -1,9 +1,5 @@
 # vscode
 
-- [eslint](https://github.com/sun-wenming/config/blob/master/vscode/eslint.md)
-
-  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)a pluggable linting utility for JavaScript.
-
 - [golang](https://github.com/sun-wenming/config/blob/master/vscode/golang.md)
 
   - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) adds rich language support for the [Go language](https://golang.org/)
