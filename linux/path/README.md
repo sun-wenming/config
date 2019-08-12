@@ -10,7 +10,7 @@ export GOROOT=/usr/local/go
 export GOPATH=/usr/local/gopro
 export GO111MODULE=on
 
-export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 # 下方是个人自定义,方便命令行中调用
 export GOPRO=$GOPATH/src/github.com/sun-wenming
 ```
