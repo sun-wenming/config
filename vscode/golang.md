@@ -5,7 +5,7 @@
   // start golang
   "go.goroot": "D:\\Go", // 根据实际的路径
   "go.gopath": "D:\\godemo",
-  "go.toolsGopath": "D:\\godemo\\bin",
+  "go.toolsGopath": "D:\\godemo",
   "editor.formatOnSave": true,
   "go.formatTool": "gofmt",
   "go.inferGopath": true,  // 自己的包或者第三方库 出现代码提示(无法通过 lint 检查，则不会执行自动 import)
